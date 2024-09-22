@@ -1,0 +1,7 @@
+export default function <%= page_name_capitalized %>() {
+  return (
+    <div>
+      <h1>Welcome to the <%= page_name %> page!</h1>
+    </div>
+  );
+}

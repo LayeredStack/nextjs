@@ -1,0 +1,3 @@
+#!/usr/bin/env ruby -wU
+require 'layered_stack_nextjs'
+LayeredStackNextjs::Cli.start(ARGV)
